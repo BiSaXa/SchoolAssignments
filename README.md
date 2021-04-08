@@ -1,5 +1,5 @@
 # C110-IntroToOOP-Assignments
-My codes for the assignments given in my OOP class.
+My codes for the assignments given in my first year OOP class.
 Lab sessions are done as bonus.
 
 ## Assignments
