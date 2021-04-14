@@ -16,6 +16,8 @@ Lab 2 - Bouncing Ball with Color Change (StdDraw)
 
 Lab 3 - Non-overlapping Circles Inside a Canvas (StdDraw)
 
-Lab 4 - Non-overlapping Circles Inside a Canvas | OOP Way (StdDraw)
+Lab 4 - Non-overlapping Circles Inside a Canvas (StdDraw/OOP)
 
-Lab 5 - Multiple Bouncing Balls | OOP Way (StdDraw)
+Lab 5 - Multiple Bouncing Balls (StdDraw/OOP)
+
+Lab 6 - Plot Product Prices (StdDraw/OOP)
