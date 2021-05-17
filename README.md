@@ -25,3 +25,7 @@ Lab 5 - Multiple Bouncing Balls (StdDraw/OOP)
 Lab 6 - Plot Product Prices (StdDraw/OOP)   
 
 Lab 7 - Random-Generated Shapes and Their Areas (StdDraw/OOP)
+
+## Extras
+
+Sample projects prepared by Aylanur Ertürk & Oğuzhan Güngör
