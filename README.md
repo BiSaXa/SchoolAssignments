@@ -1,4 +1,4 @@
-# C110-IntroToOOP-Assignments
+# C110 Intro to Object-Oriented-Programming Assignments
 My codes for the assignments given in my first year OOP class.
 Lab sessions are done as bonus.
 
