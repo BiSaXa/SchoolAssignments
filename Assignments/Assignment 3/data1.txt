@@ -1,0 +1,8 @@
+Building;8;0.1;0.1;Red
+Building;4;0.3;0.1;Yellow
+Tree;0.6
+Building;1;0.4;0.1;Orange
+Tree;0.88
+Building;6;0.6;0.2;Blue
+Building;12;0.8;0.09;Orange
+Tree;0.2
