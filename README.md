@@ -1,6 +1,10 @@
-# C110 Intro to Object-Oriented-Programming Assignments
-My codes for the assignments given in my first year OOP class.
-Lab sessions are done as bonus.
+# SchoolAssignmets
+My codes for the assignments given in my classes.   
+Lab sessions are done as bonus.   
+
+Currently includes [C110](#c110) (Intro to Object-Oriented Programming).
+
+# C110
 
 ## Assignments
 
