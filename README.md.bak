@@ -2,7 +2,7 @@
 My codes for the assignments given in my classes.   
 Lab sessions are done as bonus.   
 
-Currently includes [C110](#c110) (Intro to Object-Oriented Programming) and [C201](#c201) (Data Structures and Algorithms).
+Currently includes [C110](#c110) (Intro to Object-Oriented Programming).
 
 # C110
 
@@ -33,17 +33,3 @@ Lab 7 - Random-Generated Shapes and Their Areas (StdDraw/OOP)
 ## Extras
 
 Sample projects prepared by Aylanur Ertürk & Oğuzhan Güngör
-
-# C201
-
-## Assignments
-
-Assignment 1 - MyInteger
-
-## Lab Sessions
-
-Lab 1 - Abstract Classes and the Comparable Interface
-
-Lab 2 - Generic Box Using Array List
-
-Lab 3 - Array-Based Stack and Queue Implementations
